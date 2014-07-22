@@ -22,7 +22,7 @@ PM - Resource!
 
 +   [NewOCR](http://www.newocr.com/) - Free Online OCR - Convert JPEG, PNG, GIF, BMP, TIFF, PDF, DjVu to Text.
 +   [MyFonts](http://www.myfonts.com/WhatTheFont/) - 查找字体。上传截图，自动匹配，真正的所见即所得。
-+   [UEditor](http://ueditor.baidu.com/website/onlinedemo.html) - UEditor是百度的一个javascript编辑器的开源项目，能带给您良好的富文本使用体验
++   [UEditor](http://ueditor.baidu.com/website/onlinedemo.html) - 百度的一个javascript编辑器的开源项目，良好的富文本使用体验。
 
 #### 1.2 开发资源
 
