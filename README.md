@@ -21,24 +21,24 @@ PM - Resource!
 #### 1.1 工具资源
 
 +   [NewOCR](http://www.newocr.com/) - Free Online OCR - Convert JPEG, PNG, GIF, BMP, TIFF, PDF, DjVu to Text.
-+   [UEditor](http://ueditor.baidu.com/website/onlinedemo.html) - 百度的一个javascript编辑器的开源项目，良好的富文本使用体验。
++   [UEditor](http://ueditor.baidu.com/website/onlinedemo.html) - 百度的一个javascript编辑器的开源项目，好用的富文本编辑器
 
 #### 1.2 开发资源
 
-+   [HighCharts](http://www.highcharts.com/) - Interactive JavaScript charts for your web pages.开源图表服务。
-+   [W3C.Validator](http://validator.w3.org/) - CSS验证服务。
-+   [Windows 用户体验交互设计规范](http://www.uxguide.net/wiki/windows:Home) - 为所有基于 Windows 的应用程序划定高品质与一致性的基准。
-+   [Yahoo Design Pattern Library](https://developer.yahoo.com/ypatterns/social/people/reputation/index.html) - 雅虎设计模式库。
-+   [Android Design](http://www.apkbus.com/design/index.html) - Android 设计指南非官方简体中文版。
++   [HighCharts](http://www.highcharts.com/) - Interactive JavaScript charts for your web pages. 开源图表服务
++   [W3C.Validator](http://validator.w3.org/) - CSS验证服务
++   [Windows 用户体验交互设计规范](http://www.uxguide.net/wiki/windows:Home) - 为所有基于 Windows 的应用程序划定高品质与一致性的基准
++   [Yahoo Design Pattern Library](https://developer.yahoo.com/ypatterns/social/people/reputation/index.html) - 雅虎设计模式库
++   [Android Design](http://www.apkbus.com/design/index.html) - Android 设计指南非官方简体中文版
 
 #### 1.3 设计资源
 
-+   [尺寸](http://chicun.in/) - 给力的设计标准分享。
-+   [iconFont](http://www.iconfont.cn) - 阿里UX部门推出的矢量图标管理网站，提供在线图标搜索、图标分捡下载、在线储存、矢量格式转换、个人图标库管理及项目图标管理功能。
-+   [iconPng](http://www.iconpng.com/) - 中文图标搜索引擎，具有按分类、色系、标题、系列搜索图标的功能。
-+   [懒人图库](http://www.lanrentuku.com/) - 矢量图,网页素材下载。学会偷懒，懒出境界！
-+   [1x](http://1x.com/) - Curated photography.艺术感与创意兼具高质量图片网站。
-+   [MyFonts](http://www.myfonts.com/WhatTheFont/) - 查找字体。上传截图，自动匹配，真正的所见即所得。
-+   [Qiuziti](http://www.qiuziti.com/) - 中文和英文字体库下载、识别与预览服务，找字体的好帮手。
++   [尺寸](http://chicun.in/) - 给力的设计标准分享
++   [iconFont](http://www.iconfont.cn) - 阿里UX部门推出的矢量图标管理网站，提供在线图标搜索、图标分捡下载、在线储存、矢量格式转换、个人图标库管理及项目图标管理功能
++   [iconPng](http://www.iconpng.com/) - 中文图标搜索引擎，具有按分类、色系、标题、系列搜索图标的功能
++   [懒人图库](http://www.lanrentuku.com/) - 矢量图，网页素材下载
++   [1x](http://1x.com/) - Curated photography. 艺术感与创意兼具高质量图片网站
++   [MyFonts](http://www.myfonts.com/WhatTheFont/) - 查找字体，上传截图，自动匹配，真正的所见即所得
++   [Qiuziti](http://www.qiuziti.com/) - 中文和英文字体库下载、识别与预览服务，找字体的好帮手
 
 
