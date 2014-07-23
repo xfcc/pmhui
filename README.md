@@ -18,10 +18,11 @@ PM - Resource!
 
 暂时还没有做详细分类，会在之后补充上。
 
-#### 1.1 工具资源
+#### 1.1 效率资源
 
 +   [NewOCR](http://www.newocr.com/) - Free Online OCR - Convert JPEG, PNG, GIF, BMP, TIFF, PDF, DjVu to Text.
 +   [UEditor](http://ueditor.baidu.com/website/onlinedemo.html) - 百度的一个javascript编辑器的开源项目，好用的富文本编辑器
++   [FIR.im](http://fir.im/) - Fly It Remotely. 免费App托管平台，为移动开发者提供简洁迅速的内测程序分发服务
 
 #### 1.2 开发资源
 
