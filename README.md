@@ -23,6 +23,8 @@ PM - Resource!
 +   [NewOCR](http://www.newocr.com/) - Free Online OCR - Convert JPEG, PNG, GIF, BMP, TIFF, PDF, DjVu to Text.
 +   [UEditor](http://ueditor.baidu.com/website/onlinedemo.html) - 百度的一个javascript编辑器的开源项目，好用的富文本编辑器
 +   [FIR.im](http://fir.im/) - Fly It Remotely. 免费App托管平台，为移动开发者提供简洁迅速的内测程序分发服务
++   [番茄土豆](https://pomotodo.com/) - 基于番茄工作法和 GTD，帮助您更高效的完成工作
++   [Doit](http://doitim.com/cn/) - 日程管理工具
 
 #### 1.2 开发资源
 
