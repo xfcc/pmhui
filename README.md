@@ -26,7 +26,10 @@ PM - Resource!
 
 +   [FIR.im](http://fir.im/) - Fly It Remotely. 免费iOS App托管平台，为移动开发者提供简洁迅速的内测程序分发服务
 
-+   [蒲公英](http://www.pgyer.com/) - 免费的应用托管平台。iOS、Android完美支持
++   [TestFlight](http://testflightapp.com/) - The freedom to build better apps. 与FIR一样属于Ad-hoc分发，需要设备的UUID来生成证书
+
++   [蒲公英](http://www.pgyer.com/) - 免费的应用托管平台。iOS、Android完美支持，提供免费的企业分发，不需要设备的UUID，但有部分限制
+
 
 +   [番茄土豆](https://pomotodo.com/) - 基于番茄工作法和 GTD，帮助您更高效的完成工作
 
