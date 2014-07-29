@@ -24,7 +24,9 @@ PM - Resource!
 
 +   [UEditor](http://ueditor.baidu.com/website/onlinedemo.html) - 百度的一个javascript编辑器的开源项目，好用的富文本编辑器
 
-+   [FIR.im](http://fir.im/) - Fly It Remotely. 免费App托管平台，为移动开发者提供简洁迅速的内测程序分发服务
++   [FIR.im](http://fir.im/) - Fly It Remotely. 免费iOS App托管平台，为移动开发者提供简洁迅速的内测程序分发服务
+
++   [蒲公英](http://www.pgyer.com/) - 免费的应用托管平台。iOS、Android完美支持
 
 +   [番茄土豆](https://pomotodo.com/) - 基于番茄工作法和 GTD，帮助您更高效的完成工作
 
