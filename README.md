@@ -34,7 +34,7 @@ PM - Resource!
 
 +   [Doit](http://doitim.com/cn/) - 日程管理工具
 
-+   [HostAdmin](https://github.com/tg123/chrome-hostadmin) - Saving your time when you switch domain-ip mapping between different environment
++   [HostAdmin](https://github.com/tg123/chrome-hostadmin) - Switch domain-ip mapping between different environment
 
 #### 1.2 开发资源
 
