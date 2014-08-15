@@ -28,12 +28,13 @@ PM - Resource!
 
 +   [TestFlight](http://testflightapp.com/) - The freedom to build better apps. 与FIR一样属于Ad-hoc分发，需要设备的UUID来生成证书
 
-+   [蒲公英](http://www.pgyer.com/) - 免费的应用托管平台。iOS、Android完美支持，提供免费的企业分发，不需要设备的UUID，但有部分限制
-
++   [蒲公英](http://www.pgyer.com/) - 免费的应用托管平台。iOS、Android完美支持，可自选Ad-Hoc或企业签名发布方式
 
 +   [番茄土豆](https://pomotodo.com/) - 基于番茄工作法和 GTD，帮助您更高效的完成工作
 
 +   [Doit](http://doitim.com/cn/) - 日程管理工具
+
++   [HostAdmin](https://github.com/tg123/chrome-hostadmin) - Saving your time when you switch domain-ip mapping between different environment
 
 #### 1.2 开发资源
 
@@ -46,6 +47,8 @@ PM - Resource!
 +   [Yahoo Design Pattern Library](https://developer.yahoo.com/ypatterns/social/people/reputation/index.html) - 雅虎设计模式库
 
 +   [Android Design](http://www.apkbus.com/design/index.html) - Android 设计指南非官方简体中文版
+
++   [Android DP/PX Converter](http://pixplicity.com/dp-px-converter/) - Pixels-DP-ldpi-mdpi-hdpi-xhdpi-xxhdpi-xxxhdpi 换算工具
 
 #### 1.3 设计资源
 
@@ -62,5 +65,3 @@ PM - Resource!
 +   [MyFonts](http://www.myfonts.com/WhatTheFont/) - 查找字体，上传截图，自动匹配，真正的所见即所得
 
 +   [Qiuziti](http://www.qiuziti.com/) - 中文和英文字体库下载、识别与预览服务，找字体的好帮手
-
-
