@@ -26,7 +26,7 @@ PM - Resource!
 
 +   [FIR.im](http://fir.im/) - Fly It Remotely. 免费iOS App托管平台，为移动开发者提供简洁迅速的内测程序分发服务
 
-+   [TestFlight](http://testflightapp.com/) - The freedom to build better apps. 与FIR一样属于Ad-hoc分发，需要设备的UUID来生成证书
++   [TestFlight](http://testflightapp.com/) - The freedom to build better apps. Ad-hoc分发，需要设备的UUID来生成证书
 
 +   [蒲公英](http://www.pgyer.com/) - 免费的应用托管平台。iOS、Android完美支持，可自选Ad-Hoc或企业签名发布方式
 
@@ -52,6 +52,8 @@ PM - Resource!
 
 #### 1.3 设计资源
 
++   [墨刀](https://modao.io/) - 极简超快的移动应用原型工具
+
 +   [尺寸](http://chicun.in/) - 给力的设计标准分享
 
 +   [iconFont](http://www.iconfont.cn) - 阿里UX部门推出的矢量图标管理网站
@@ -65,3 +67,5 @@ PM - Resource!
 +   [MyFonts](http://www.myfonts.com/WhatTheFont/) - 查找字体，上传截图，自动匹配，真正的所见即所得
 
 +   [Qiuziti](http://www.qiuziti.com/) - 中文和英文字体库下载、识别与预览服务，找字体的好帮手
+
+
